@@ -263,3 +263,12 @@ nav a.button-collapse {
 footer.page-footer {
     margin-top: 0px !important;
 }
+
+ul.contact-ul {
+  width: 220px;
+
+}
+.contact-div {
+    display: flex;
+    justify-content: space-between;
+}
